@@ -1,4 +1,4 @@
-# Gaussian_Naives-bayes-Clustering
+# Gaussian_Naives-bayes-Classification
 Clustering using popular Titanic dataset
 Naive Bayes methods are a set of supervised learning algorithms based on applying 
 Bayes’ theorem with the “naive” assumption of conditional independence between 
